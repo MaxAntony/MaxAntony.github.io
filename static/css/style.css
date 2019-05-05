@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.caja {
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(-45deg, #ac32e4, #7918f2, #4801ff);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h3 {
+    font-family: "Montserrat", Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-size: 50px;
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+
+a {
+    font-size: 30px;
+    font-family: "Montserrat", Arial, Helvetica, sans-serif;
+    line-height: 1.2;
+    font-weight: 300;
+    text-decoration: none;
+    color: white;
+ }
+a:hover{
+ text-decoration: underline;   
+}
