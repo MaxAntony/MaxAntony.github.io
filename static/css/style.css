@@ -31,8 +31,9 @@ a {
     line-height: 1.2;
     font-weight: 300;
     text-decoration: none;
+    border-bottom: 1px solid transparent;
     color: white;
  }
 a:hover{
- text-decoration: underline;   
+ border-bottom: 1px solid white;
 }
