@@ -33,6 +33,7 @@ a {
     text-decoration: none;
     border-bottom: 1px solid transparent;
     color: white;
+    padding-bottom: 7px;
  }
 a:hover{
  border-bottom: 1px solid white;
